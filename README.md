@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Full stack based projects.
 - 📫 How to reach me => prathap110201@gmail.com
 -    Portfolio => https://www.crio.do/learn/portfolio/prathap110201/
--
 
 <!---
 M-Prathap/M-Prathap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
